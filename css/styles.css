@@ -1,0 +1,48 @@
+.header-section{
+	background-color: #0099FF;
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+
+.Projects-section{
+
+background-color: #0099FF;
+
+}
+
+.name{
+
+	color: white;
+
+}
+
+.designation{
+
+	color: #181818;
+}
+
+.ContactMe-section{
+
+	background-color: white;
+	
+}
+
+.link{
+	padding-left: 50px;
+	padding-right: 50px;
+	color: black;
+	transition: all .5s ease-in-out;
+}
+
+.link:hover{
+	transform:	scale(1.2);
+
+}
+
+.CopyRights-section{
+
+	background-color: #0099FF;
+}
